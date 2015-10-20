@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/env_default.h</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/dynamic_bucket_updater.cpp</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/store.h</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/file.cpp</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/env_default.cpp</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/conn_pool.h</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/file.h</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/conf.h</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/conn_pool.cpp</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/store_queue.cpp</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/scribe_server.h</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/scribe_server.cpp</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/common.h</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/conf.cpp</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/network_dynamic_config.cpp</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/HdfsFile.h</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/dynamic_bucket_updater.h</file>
+            <file>rfs://backend@mama18:22/mdserver/backend/project/xscribe/src/network_dynamic_config.h</file>
+        </group>
+    </open-files>
+</project-private>
